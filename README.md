@@ -1,51 +1,25 @@
-# Linux Practice
+# Linux Practice Repository
 
 This repository contains my Linux learning notes and command practice while studying system administration and DevOps.
 
 ## Topics Covered
 
 - Basic Linux Commands
-- File and Directory Management
-- User Management
-- Permissions
+- File Management
+- File Permissions
 - Networking Commands
 - Process Management
 
-## Basic Commands
+## Repository Structure
 
-### File and Directory Commands
-ls
-pwd
-cd
-mkdir
-rmdir
-touch
-cp
-mv
-rm
+commands/ → basic Linux commands
 
-### File Viewing
-cat
-less
-head
-tail
+networking/ → networking related commands
 
-### Permissions
-chmod
-chown
+permissions/ → Linux file permissions
 
-### User Management
-useradd
-passwd
-usermod
+process/ → process management commands
 
-### Networking
-ping
-ifconfig
-ip
-netstat
+## Goal
 
-### Process Management
-ps
-top
-kill
+To strengthen my Linux and system administration skills for DevOps and cloud engineering.
